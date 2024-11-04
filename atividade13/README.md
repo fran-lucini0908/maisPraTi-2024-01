@@ -1,4 +1,4 @@
-## ✏ Para iniciar o projeto basta utilizar os seguintes comandos
+Para iniciar o projeto basta utilizar os seguintes comandos
 
 - Instalar as dependências do pom.xml na pasta modulo07\atividade13\pom.xml
 
