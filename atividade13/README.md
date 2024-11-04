@@ -1,6 +1,6 @@
 Para iniciar o projeto basta utilizar os seguintes comandos
 
-- Instalar as dependências do pom.xml na pasta modulo07\atividade13\pom.xml
+- Instalar as dependências do pom.xml na pasta maisPraTi-2024-01\atividade13\pom.xml
 
 - Criar um banco Mysql com as seguintes informações para conectar com o servidor
   - spring.datasource.url=jdbc:mysql://localhost:3306/apiuser?allowPublicKeyRetrieval=true&useSSL=false
