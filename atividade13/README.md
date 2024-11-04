@@ -1,11 +1,4 @@
-## 📌 Sobre
-
-- Atividade 13 - Solução de Problemas envolvendo o JWT
-
 ## ✏ Para iniciar o projeto basta utilizar os seguintes comandos
-
-- Clonar o repositório
-    <pre><code>git clone https://github.com/CaioMMendes/MaisPraTi</code></pre>
 
 - Instalar as dependências do pom.xml na pasta modulo07\atividade13\pom.xml
 
